@@ -193,7 +193,7 @@ body {
 
     /* Make wolf images half the width on desktop */
     .wolf-image {
-        width: 70%;        /* image will be half the container width */
+        width: 100%;        /* image will be half the container width */
         max-width: none;   /* override the previous max-width:100% */
         height: auto;
         margin: 0 auto;    /* center the image inside the container */
