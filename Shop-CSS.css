@@ -172,7 +172,7 @@ body {
 @media (min-width: 768px) {
     .shop-container {
         padding: var(--padding-desktop);
-        margin: 40px auto;
+        margin: 20px auto;
     }
 
     .shop-header h1 {
