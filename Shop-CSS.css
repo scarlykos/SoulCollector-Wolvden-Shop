@@ -26,7 +26,7 @@ body {
 
 /* Main Container - Limits width on PC, expands on mobile */
 .shop-container {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
     background-color: var(--bg-dark);
     border: 2px solid var(--border-color);
